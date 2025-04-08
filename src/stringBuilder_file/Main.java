@@ -1,5 +1,4 @@
-package stringBuilder;
-import javax.imageio.IIOException;
+package stringBuilder_file;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
